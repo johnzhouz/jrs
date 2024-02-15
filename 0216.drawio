@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-02-15T16:38:43.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="b76LQDg7_EfYE4PtIMBB" version="23.1.1" type="github">
+  <diagram name="第 1 页" id="QUxGIifQUmA1StA2rJvh">
+    <mxGraphModel dx="967" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IkZ6kC4b8WAhOYYU804M-1" value="Main Question&lt;br&gt;&lt;br&gt;How to develop the career move recommendation&amp;nbsp; based on&amp;nbsp;artificial intelligence in job portal?&amp;nbsp;&lt;br&gt;1.what is the relationship between artifial intelligence and Job recommedantion system?&lt;br&gt;&lt;br&gt;2.How to help job seekers to achieve career move in job portal using AI?&lt;br&gt;&lt;br&gt;3.How to evaluate the development of the framework?" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="50" width="490" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IkZ6kC4b8WAhOYYU804M-2" value="Research&lt;br&gt;Questions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="90" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7s949W7V_czBLz1xUvVB-1" value="chapter 1&lt;font data-immersive-translate-loading-id=&quot;517&quot; lang=&quot;zh-CN&quot; translate=&quot;no&quot; class=&quot;notranslate immersive-translate-target-wrapper&quot;&gt;&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="90" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7s949W7V_czBLz1xUvVB-6" value="chapter 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="270" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7s949W7V_czBLz1xUvVB-4" value="Research Background&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="490" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7s949W7V_czBLz1xUvVB-9" value="chapter 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="420" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7s949W7V_czBLz1xUvVB-5" value="Job Recommendation System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7s949W7V_czBLz1xUvVB-11" value="Artifical Intelligence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7s949W7V_czBLz1xUvVB-12" value="+" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="265" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7s949W7V_czBLz1xUvVB-14" value="Work System Method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7s949W7V_czBLz1xUvVB-17" value="+" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="265" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7s949W7V_czBLz1xUvVB-18" value="=" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="265" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7s949W7V_czBLz1xUvVB-19" value="Literautre Analysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
