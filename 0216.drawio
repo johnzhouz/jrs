@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T14:47:12.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Kv9mGZZ3C5vXhhmq-JEP" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T14:57:27.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Mu_fJZt0fmQUcvHoU45L" version="23.1.5" type="github">
   <diagram name="第 1 页" id="QUxGIifQUmA1StA2rJvh">
-    <mxGraphModel dx="1217" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IkZ6kC4b8WAhOYYU804M-1" value="&amp;nbsp;Main Question&lt;br&gt;&lt;br&gt;How to develop the career move recommendation&amp;nbsp; based on&amp;nbsp;artificial intelligence in job portal?&amp;nbsp;&lt;br&gt;1.what is the relationship between artifial intelligence and Job recommedantion system?&lt;br&gt;&lt;br&gt;2.How to help job seekers to achieve career move in job portal using AI?&lt;br&gt;&lt;br&gt;3.How to offer up-skilling and re-skilling recommendations to support career move?" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="190" y="50" width="490" height="140" as="geometry" />
+        <mxCell id="IkZ6kC4b8WAhOYYU804M-1" value="&amp;nbsp;Main Question&lt;br&gt;&lt;br&gt;How to develop the career move recommendation based on&amp;nbsp;artificial intelligence in job portal?&amp;nbsp;&lt;br&gt;1.what is the challenge in Job Recommendation Systems?&lt;br&gt;&lt;br&gt;2. How the career move recommendation used in the development of Job Recommendation systems?&lt;br&gt;&lt;br&gt;3. How to offer up-skilling and re-skilling recommendations to support a career move?&lt;br&gt;&lt;br&gt;4. How to evaluatue the development of the problem framing artefacts?" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="10" width="490" height="180" as="geometry" />
         </mxCell>
         <mxCell id="IkZ6kC4b8WAhOYYU804M-2" value="Research&lt;br&gt;Questions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="90" y="100" width="80" height="40" as="geometry" />
+          <mxGeometry x="90" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7s949W7V_czBLz1xUvVB-1" value="chapter 1&lt;font data-immersive-translate-loading-id=&quot;517&quot; lang=&quot;zh-CN&quot; translate=&quot;no&quot; class=&quot;notranslate immersive-translate-target-wrapper&quot;&gt;&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="90" width="70" height="40" as="geometry" />
+          <mxGeometry x="700" y="80" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7s949W7V_czBLz1xUvVB-6" value="chapter 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="270" width="70" height="40" as="geometry" />
@@ -55,11 +55,14 @@
         <mxCell id="lhme1qqraLi6fW0KgUA8-3" value="Research Exploration (Research Design based on DRSM)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="190" y="530" width="490" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lhme1qqraLi6fW0KgUA8-4" value="Identify the challenges&lt;br&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Key&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="200" y="570" width="470" height="60" as="geometry" />
+        <mxCell id="lhme1qqraLi6fW0KgUA8-4" value="&lt;b&gt;&amp;nbsp;Identify the challenges&lt;br&gt;&lt;/b&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Interview and questionnaire to understand the challenges&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="200" y="570" width="470" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lhme1qqraLi6fW0KgUA8-5" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="65" y="620" width="20" height="20" as="geometry" />
+        <mxCell id="lhme1qqraLi6fW0KgUA8-6" value="chapter 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="580" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lhme1qqraLi6fW0KgUA8-7" value="&lt;b&gt;&amp;nbsp;Identify the challenges&lt;br&gt;&lt;/b&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Interview and questionnaire to understand the challenges&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="200" y="630" width="470" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
