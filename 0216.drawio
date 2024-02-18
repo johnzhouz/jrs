@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T14:37:07.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="FGP2ocWvpy8nvVPLr0gm" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T15:14:49.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="942ZGx6NV4oNJMh3GRyV" version="23.1.5" type="github">
   <diagram name="第 1 页" id="QUxGIifQUmA1StA2rJvh">
-    <mxGraphModel dx="1217" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1217" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="7s949W7V_czBLz1xUvVB-12" value="+" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="265" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7s949W7V_czBLz1xUvVB-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;Socio-technical Theory&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7s949W7V_czBLz1xUvVB-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;Work System Theory&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="250" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7s949W7V_czBLz1xUvVB-17" value="+" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -85,28 +85,28 @@
         <mxCell id="fHW0Ke9dXqLZGUxls11q-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;RQ 4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="105" y="830" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1Q24GC2N-fjEy4aL5J19-2" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;Demonstrate and evaluate the solution&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Illustrative Scenario&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Expert Review&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="1Q24GC2N-fjEy4aL5J19-2" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;Demonstrate and evaluate the solution&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Illustrative Scenario&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Expert Review&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="200" y="810" width="470" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1Q24GC2N-fjEy4aL5J19-3" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp;Develop the solution&lt;/b&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;Adapt the&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Socio-technical Theory&lt;/font&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Propose a career move recommendation&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Improve the framework with upskilling and reskilling component&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="1Q24GC2N-fjEy4aL5J19-3" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp;Develop the solution&lt;/b&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;Adapt the&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Socio-technical Theory&lt;/font&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Propose a career move recommendation&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Improve the framework with upskilling and reskilling component&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="200" y="730" width="470" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1Q24GC2N-fjEy4aL5J19-4" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="1Q24GC2N-fjEy4aL5J19-4" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="190" y="910" width="490" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1Q24GC2N-fjEy4aL5J19-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Research Contribution&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Q24GC2N-fjEy4aL5J19-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Research Contribution&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Q24GC2N-fjEy4aL5J19-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Future Research&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Q24GC2N-fjEy4aL5J19-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Future Research&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Q24GC2N-fjEy4aL5J19-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Limitation and Challenge&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Q24GC2N-fjEy4aL5J19-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Limitation and Challenge&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Q24GC2N-fjEy4aL5J19-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Communicate&amp;nbsp;&lt;br&gt;the&lt;br&gt;Research&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="1Q24GC2N-fjEy4aL5J19-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Communicate&amp;nbsp;&lt;br&gt;the&lt;br&gt;Research&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="85" y="930" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Q24GC2N-fjEy4aL5J19-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Chapter 6&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Q24GC2N-fjEy4aL5J19-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Chapter 6&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="940" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
